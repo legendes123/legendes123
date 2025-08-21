@@ -1,20 +1,31 @@
+# 👋 Привет!  
 
-## Hello World! ✋
+Меня зовут **[Никита]**.  
+Я разработчик, увлечённый созданием красивого и удобного кода.  
 
-i'm frontend developer.I like to solve non-standard and complex problems.I lead a sporty lifestyle.
+---
 
-### Language and tools
-![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🛠️ Мой стек технологий
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,docker,git,github" />
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendes123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_НИК&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Где меня найти
+- [Telegram](https://t.me/твоя_ссылка)  
+- [LinkedIn](https://linkedin.com/in/твоя_ссылка)  
+- [Портфолио](https://твой-сайт.com)  
+
+---
+
